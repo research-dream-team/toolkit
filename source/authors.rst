@@ -14,7 +14,8 @@ Authors
 
 | **Kenny Meesters**
 | Conceptualisation, design of the workshop, delivery of the workshop.
-| k.meesters@gmail.com
+| |orcid-icon| `<https://orcid.org/0000-0002-8324-956X>`_
+| k.meesters@gmail.com 
 
 | **Maria Cruz**
 | Conceptualisation, design of the workshop, delivery of the workshop,
