@@ -1,8 +1,8 @@
 Activity
 ========
 
-.. todo::
-   Introduction to the activity
+This section describes the main interactive activity during the workshop, with
+step-by-step instructions.
 
 
 Guided break-out group discussion
@@ -22,7 +22,8 @@ Ideal world
 
 To facilitate the discussions during the breakout session, we asked the
 participants first to imagine that they are in the *ideal world situation*.
-They can build the ideal team they need for the task by not thinking about any limitations (e.g. budget, etc.). The breakout groups were given two questions:
+They can build the ideal team they need for the task by not thinking about any
+limitations (e.g. budget, etc.). The breakout groups were given two questions:
 
 * **What are the important aspects in this project?**
 
