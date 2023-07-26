@@ -1,6 +1,8 @@
 Activity Sheet
 ==============
 
+`Download as PDF <https://github.com/research-dream-team/toolkit/blob/main/assets/activity_sheet.pdf>`_
+
 .. rst-class:: activity-sheet
 .. table::
   :width: 100%
@@ -43,4 +45,3 @@ Activity Sheet
   |                                     |                                     |
   +-------------------------------------+-------------------------------------+
 
-`Download as PDF <https://github.com/research-dream-team/toolkit/assets/activity_sheet.pdf>`_

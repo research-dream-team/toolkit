@@ -1,9 +1,9 @@
 Slide Deck
 ==========
 
-| `Download as PDF <https://github.com/research-dream-team/toolkit/assets/slide_deck.pdf>`_
-| `Download as PPTX <https://github.com/research-dream-team/toolkit/assets/slide_deck.pptx>`_
-| `Download as ODP <https://github.com/research-dream-team/toolkit/assets/slide_deck.odp>`_
+| `Download as PDF <https://github.com/research-dream-team/toolkit/blob/main/assets/slide_deck.pdf>`_
+| `Download as PPTX <https://github.com/research-dream-team/toolkit/blob/main/assets/slide_deck.pptx>`_
+| `Download as ODP <https://github.com/research-dream-team/toolkit/blob/main/assets/slide_deck.odp>`_
 
 .. rst-class:: table-slide-deck
 .. table::
