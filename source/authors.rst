@@ -1,6 +1,11 @@
 Authors
 =======
 
+.. todo::
+
+   ORCID identifiers and email addresses should be completed.
+
+
 *(In alphabetic order)*
 
 | **Cath Cotton**
@@ -35,7 +40,7 @@ Authors
 | **Serkan Girgin**
 | Conceptualisation, design of the workshop, delivery of the workshop, design
   of the kit, development of the kit, Sphinx implementation.
-| |orcid-icon| `<https://orcid.org/0000-0002-0156-185X>`_	
+| |orcid-icon| `<https://orcid.org/0000-0002-0156-185X>`_
 | s.girgin@utwente.nl
 
 | **Yan Wang**
