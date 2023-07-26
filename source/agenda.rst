@@ -66,7 +66,7 @@ Introduction of the scenario and the activity
    * See the :doc:`practicalities` section for more details.
    * Observe the discussions.
    * Stimulate the quite tables.
-   * Any questions during the discussion.
+   * Help answer any questions during the discussion.
 
 
 Breakout session
