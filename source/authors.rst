@@ -20,6 +20,7 @@ Authors
 | **Maria Cruz**
 | Conceptualisation, design of the workshop, delivery of the workshop,
   design of the kit, development of the kit, team leadership and organisation.
+|orcid-icon| `<https://orcid.org/0000-0001-9111-182X>`_
 | m.cruz@nwo.nl
 
 | **Marta Teperek**
