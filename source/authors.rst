@@ -48,6 +48,7 @@ Authors
 | **Yan Wang**
 | Conceptualisation, design of the workshop, delivery of the workshop, design
   of the kit, development of the kit, team leadership and organisation.
-| y.wang124@gmail.com
+| |orcid-icon| `<https://orcid.org/0000-0002-6317-7546>`_
+| y.wang-16@tudelft.nl
 
 .. |orcid-icon| image:: https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png
