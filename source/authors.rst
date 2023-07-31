@@ -33,7 +33,7 @@ Authors
 | Conceptualisation, design of the workshop, design of the kit, development of
   the kit, team leadership and organisation.
 | |orcid-icon| `<https://orcid.org/0000-0003-2376-9755>`_
-| melanie@immingimpact.eu
+| immingimpact@gmail.com
 
 | **Natalia Romero Herrera**
 | Conceptualisation, design of the workshop, delivery of the workshop.
