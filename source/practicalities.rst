@@ -82,10 +82,6 @@ the following roles are appointed:
 Break-out Groups
 ----------------
 
-.. todo::
-
-   Introduction to the break-out groups
-
 Participants will work in break-out groups. In advance of the workshop, decide 
 how many participants you wish to have in your workshop and consequently, how 
 many break-out groups you are willing to support. We recommend that the maximum 
