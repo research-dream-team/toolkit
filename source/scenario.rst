@@ -82,7 +82,7 @@ following table:
 
 .. table::
    :width: 100%
-	 
+
    +-----------------------------------+-------------------------------------+
    | Areas of expertise                | Roles                               |
    +===================================+=====================================+
@@ -104,7 +104,7 @@ following table:
    |                                   | * Legal counsel                     |
    |                                   | * Technology transfer officer       |
    |                                   | * Entrepreneurship advisor          |
-   |                                   | * Market and investment analysts    | 
+   |                                   | * Market and investment analysts    |
    |                                   | * Product developer                 |
    |                                   | * Marketing and sales professionals |
    +-----------------------------------+-------------------------------------+
