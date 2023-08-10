@@ -14,20 +14,24 @@ Guided break-out group discussion
    scenario.
 
 .. hint::
+   The questions we used during the workshop to steer the discussions are
+   listed below, which you might use as an inspiration in your session.
+
+.. hint::
 
    Set a timer of 10 minutes for discussing each question.
 
 Ideal world
 ^^^^^^^^^^^
 
-To facilitate the discussions during the breakout session, we asked the
-participants first to imagine that they are in the *ideal world situation*.
+To facilitate the discussions during the breakout session, ask the
+participants to first imagine that they are in the *ideal world situation*.
 They can build the ideal team they need for the task by not thinking about any
-limitations (e.g. budget, etc.). The breakout groups were given two questions:
+limitations (e.g. budget, etc.). The breakout groups are given two questions:
 
 * **What are the important aspects in this project?**
 
-  With this question, we asked participants to discuss things they, as a team,
+  With this question, ask participants to discuss things they, as a team,
   need to manage regarding societal impact, scientific impact, open science,
   publicity, economic gains and other related aspects, and try to make the list
   as concrete as possible.
@@ -42,12 +46,12 @@ limitations (e.g. budget, etc.). The breakout groups were given two questions:
 Reality
 ^^^^^^^
 
-Then we invited the participants to bring the ideal situation discussed back to
-the reality and asked them the following two questions:
+Then invite the participants to bring the ideal situation discussed back to
+the reality and asked them the following questions:
 
 * **Do people with those skills / roles exist? Do you know where to find them?**
 
-  The participants were encouraged to think about their own situation, e.g.
+  The participants are encouraged to think about their own situation, e.g.
   for a certain skill/role identified, do people know if it exists in their
   institution, do people know how to approach those groups, etc.
 
@@ -60,18 +64,17 @@ the reality and asked them the following two questions:
 Reporting
 ---------
 
-After the guided break-out group discussion, we asked the rapporteurs from
-each group to give a brief summary of their discussion, followed by a short
-reflection on how the breakout session went.
+After the guided break-out group discussion, ask the rapporteurs from each
+group to give a brief summary of their discussion. Subsequently, briefly
+reflect on how the breakout session went.
 
 
 Plenary discussion
 ------------------
 
-The workshop was wrapped up with a plenary session, which was focused on
-practical implications of the discussion. Here we would like the participants
-to think about practical tips or creative ideas that they can use immediately
-in their work.
+Wrap up the workshop with a plenary session focused on practical implications
+of the discussion. Ask the participants to think about practical tips or
+creative ideas that they can use immediately in their work.
 
 Instead of open discussion, it is also recommended to run an online survey
 (e.g. Mentimeter) at the end of the workshop, some exemplary questions could
