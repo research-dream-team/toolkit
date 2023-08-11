@@ -57,6 +57,6 @@ as possible for them to do so.
 For whom?
 ---------
 
-This toolkit is for those who want to organise a workshop aimed at facilitating
-discussion and raising awareness about the diversity of roles and contributions
-to research.
+This toolkit is for anyone who would like to facilitate discussion and raise
+awareness about diversity of roles and contributions to research in an
+inclusive and interactive way.
