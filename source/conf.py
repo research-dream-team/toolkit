@@ -6,8 +6,8 @@ project = 'Research Dream Team Toolkit'
 copyright = '2023, Research Dream Team'
 author = 'Research Dream Team'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0.1'
+version = '1.0.1'
 
 # -- General configuration
 
