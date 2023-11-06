@@ -1,3 +1,7 @@
+.. image:: https://zenodo.org/badge/668600449.svg
+  :target: https://zenodo.org/doi/10.5281/zenodo.10074659
+
+
 Building Research Dream Teams
 =============================
 
