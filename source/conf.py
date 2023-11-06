@@ -11,10 +11,6 @@ version = '1.0.1'
 
 # -- General configuration
 
-extensions = [
-    'sphinx.ext.todo',
-]
-
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
@@ -33,8 +29,3 @@ html_css_files = ['css/custom.css']
 # -- Options for EPUB output
 
 epub_show_urls = 'footnote'
-
-# -- Options for todo items
-
-todo_include_todos = True
-todo_link_only = True
