@@ -1,7 +1,3 @@
-.. image:: https://zenodo.org/badge/668600449.svg
-  :target: https://zenodo.org/doi/10.5281/zenodo.10074659
-
-
 Building Research Dream Teams
 =============================
 
@@ -11,6 +7,15 @@ Building Research Dream Teams
   :width: 600
   :alt: Building Research Dream Teams
 `People illustrations by Storyset <https://storyset.com/people>`_
+
+.. list-table::
+
+   * - Source
+     - .. image:: https://zenodo.org/badge/668600449.svg
+          :target: https://zenodo.org/doi/10.5281/zenodo.10074659
+   * - Document
+     - .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.10075225.svg
+          :target: https://doi.org/10.5281/zenodo.10075225
 
 
 About the Toolkit
